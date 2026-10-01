@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cardosocardorso-create.github.io/plataforma-apostas/sitemap.xml
